@@ -19,6 +19,10 @@ app.get('/', function (req, res) {
 app.listen(3000)
 ```
 
+## Massdrop changes
+
+Throws errors from finalhandler instead of console.error().
+
 ## Installation
 
 ```bash
